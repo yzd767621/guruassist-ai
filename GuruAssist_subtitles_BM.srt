@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:15,000
+Guru-guru di Malaysia dibebani kerja perkeranian Pentaksiran Bilik Darjah (PBD)—menyemak markah, mengira tahap TP1 hingga TP6, menulis RPH pemulihan, dan menyiapkan laporan ibu bapa.
+
+2
+00:00:15,000 --> 00:00:28,000
+GuruAssist ialah ejen AI autonomi berasaskan panggilan fungsi (Function Calling) Google Gemini 2.5 Flash yang menyelesaikan keseluruhan aliran kerja PBD ini daripada satu matlamat sahaja.
+
+3
+00:00:28,000 --> 00:00:55,000
+Kita masukkan kunci API Gemini, muatkan markah Matematik Kelas 5 Bestari, dan klik Run Agent. Ejen merancang langkahnya sendiri dan memanggil alat load_class_data serta validate_scores.
+
+4
+00:00:55,000 --> 00:01:20,000
+Secara autonomi, ejen mengesan dua ralat data: markah Nurul Aina yang kosong pada Soalan 3, dan ralat menaip 200/20 bagi Amirul Hakimi pada Soalan 2!
+
+5
+00:01:20,000 --> 00:01:45,000
+Ejen memanggil flag_issue untuk menandakan ralat tersebut, mengira tahap TP1–TP6 secara tepat, dan mengesan bahawa Soalan 4 (Pembahagian Pecahan) ialah kelemahan utama kelas (purata 32%)!
+
+6
+00:01:45,000 --> 00:02:15,000
+Di panel kanan, kesemua 4 dokumen guru telah siap: Jadual PBD lengkap, Analisis Kelemahan Kelas, Draf RPH Pemulihan 60 minit, serta Laporan Kemajuan Ibu Bapa dwibahasa (BM & EN).
+
+7
+00:02:15,000 --> 00:02:40,000
+Guru boleh memuat turun fail CSV PBD dan RPH dengan satu klik, dan jika tiada sambungan API, sistem beralih secara telus kepada mod peraturan luar talian. Terima kasih!
