@@ -6,6 +6,8 @@
 * **Name:** **YEOH ZHENG DA**
 * **Institution:** **Universiti Teknologi Malaysia (UTM)** — Bachelor of Artificial Intelligence
 * **Email:** `zhengdayeoh120@gmail.com` | **Phone:** `+60 18-201 4893`
+* **Live Deployed Web App Link:** `https://yzd767621.github.io/guruassist-ai/`
+* **GitHub Repository Link:** `https://github.com/yzd767621/guruassist-ai`
 * **Project Title:** **GuruAssist — Autonomous AI Agent for PBD (Pentaksiran Bilik Darjah) Paperwork & Remedial Planning**
 
 ---
